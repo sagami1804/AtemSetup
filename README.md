@@ -1,0 +1,2 @@
+# AtemSetup
+ATEMのタグ設定をATEMSoftwareControl無しで行うソフト
